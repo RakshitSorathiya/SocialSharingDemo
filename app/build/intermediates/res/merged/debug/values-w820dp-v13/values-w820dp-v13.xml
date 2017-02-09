@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <string name="app_name">DirectShare</string>
+    <string name="intro_message">
+        
+        
+            
+This sample demonstrates how to provide the Direct Share feature. The app shows some options
+directly in the list of share intent candidates.
+            
+        
+        
+    </string>
+    <style name="Theme.Base" parent="android:Theme.Material.Light">
+    </style>
+</resources>

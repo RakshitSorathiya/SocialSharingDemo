@@ -1,0 +1,80 @@
+[
+    {
+        "outputFile": "/home/ln-149/Desktop/SocialSharingDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/ln-149/Desktop/SocialSharingDemo/app/src/main/res/values-w820dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 48,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/home/ln-149/Desktop/SocialSharingDemo/app/src/main/res/values-w820dp/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 48,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endLine": 13,
+                    "endColumn": 13,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "/home/ln-149/Desktop/SocialSharingDemo/app/src/main/res/values-w820dp/base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/home/ln-149/Desktop/SocialSharingDemo/app/src/main/res/values-w820dp/base-template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 753
+                    }
+                }
+            }
+        ]
+    }
+]
